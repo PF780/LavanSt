@@ -2,3 +2,14 @@ body {
     background: #9a69a5;
     color: #6b1b5d;
 }
+
+header{
+    
+}
+
+h1{
+    border-bottom: solid 2px #6b1b5d;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Playfair Display", serif;
+}
